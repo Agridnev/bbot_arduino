@@ -1,8 +1,6 @@
 # BBot Arduino Sketch
 This is simple Arduino sketch for BBot skid-steering base.
 
-> **WARNING!** This project is in semi-final state because Arduino will be replaced in next revision of BBot. Arduino is for amateurs!
-
 The sketch have following basic implementations:
 * motor PWM and direction control
 * motor angular velocity control
